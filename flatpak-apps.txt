@@ -1,0 +1,6 @@
+com.discordapp.Discord
+com.mattjakeman.ExtensionManager
+com.visualstudio.code
+dev.edfloreshz.CosmicTweaks
+io.github.flattool.Warehouse
+org.gnome.Extensions

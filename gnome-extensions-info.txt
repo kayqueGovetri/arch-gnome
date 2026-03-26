@@ -1,0 +1,79 @@
+dash-to-dock@micxgx.gmail.com
+  Name: Dash to Dock
+  Description: A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops. Side and bottom placement options are available.
+  Path: /home/kayque/.local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com
+  URL: https://micheleg.github.io/dash-to-dock/
+  Original author: micxgx@gmail.com
+  Version: 103
+  Enabled: No
+  State: INACTIVE
+drive-menu@gnome-shell-extensions.gcampax.github.com
+  Name: Removable Drive Menu
+  Description: A status menu for accessing and unmounting removable devices.
+  Path: /home/kayque/.local/share/gnome-shell/extensions/drive-menu@gnome-shell-extensions.gcampax.github.com
+  URL: https://gitlab.gnome.org/GNOME/gnome-shell-extensions
+  Version: 72
+  Enabled: Yes
+  State: ACTIVE
+dash-to-panel@jderose9.github.com
+  Name: Dash to Panel
+  Description: An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
+
+For a more traditional experience, you may also want to use Tweak Tool to enable Windows > Titlebar Buttons > Minimize & Maximize.
+
+For the best support, please report any issues on Github. Dash-to-panel is developed and maintained by @jderose9 and @charlesg99.
+  Path: /home/kayque/.local/share/gnome-shell/extensions/dash-to-panel@jderose9.github.com
+  URL: https://github.com/home-sweet-gnome/dash-to-panel
+  Version: 72
+  Enabled: Yes
+  State: ACTIVE
+logomenu@aryan_k
+  Name: Logo Menu
+  Description: Logo Menu - Menu similar to Apple's macOS menu for the GNOME Desktop
+This extension gives a simple menu along with the ability to get the icon of your distro on top left part of the panel for a great look.
+The Icon can be customised through settings, it has both Linux and BSD logos.
+For more screenshots, visit GitHub.
+
+The 'Activities' indicator is hidden by default but can be enabled through settings.
+
+The default Terminal and Software centre can also be changed.
+
+ Force Quit works on Wayland and Xorg
+  Path: /home/kayque/.local/share/gnome-shell/extensions/logomenu@aryan_k
+  URL: https://github.com/Aryan20/Logomenu
+  Version: 24.4 (39)
+  Enabled: Yes
+  State: ACTIVE
+blur-my-shell@aunetx
+  Name: Blur my Shell
+  Description: Adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview.
+
+You can support my work by sponsoring me on:
+- github: https://github.com/sponsors/aunetx
+- ko-fi: https://ko-fi.com/aunetx
+
+If you use Ubuntu, you may want to change the radius of the corner effect for Dash-to-Dock in preferences, else you may see unpleasantly mixed radii in your dock.
+
+Note: if the extension shows an error after updating, please make sure to restart your session to see if it persists. This is due to a bug in gnome shell, which I can't fix by myself.
+  Path: /home/kayque/.local/share/gnome-shell/extensions/blur-my-shell@aunetx
+  URL: https://github.com/aunetx/blur-my-shell
+  Version: 70
+  Enabled: Yes
+  State: ACTIVE
+user-theme@gnome-shell-extensions.gcampax.github.com
+  Name: User Themes
+  Description: Load shell themes from user directory.
+  Path: /home/kayque/.local/share/gnome-shell/extensions/user-theme@gnome-shell-extensions.gcampax.github.com
+  URL: https://gitlab.gnome.org/GNOME/gnome-shell-extensions
+  Version: 69
+  Enabled: Yes
+  State: ACTIVE
+azwallpaper@azwallpaper.gitlab.com
+  Name: Wallpaper Slideshow
+  Description: Wallpaper slideshow extension for GNOME. Optionally downloads BING wallpaper of the day.
+ Automatically changes the wallpaper at a user defined interval.
+  Path: /home/kayque/.local/share/gnome-shell/extensions/azwallpaper@azwallpaper.gitlab.com
+  URL: https://gitlab.com/AndrewZaech/azwallpaper
+  Version: 14.0 (17)
+  Enabled: Yes
+  State: ACTIVE
